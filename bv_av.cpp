@@ -25,6 +25,7 @@ int main()
 	printf("%lld\n", t);
 	avTObv(t);
 	printf("RESULT: %s\n", BV);
+	return 0;
 }
 
 unsigned int search(char in)		//Lookup dictionary
